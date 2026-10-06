@@ -33,7 +33,7 @@ Agent-lens/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/Agent-lens.git
+git clone https://github.com/emannoor718-blip/Agent-lens.git
 cd Agent-lens
 ```
 
